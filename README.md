@@ -1,6 +1,6 @@
 # EmployeeAutomationSystem
 
-Proje lokalde kurulan (XAMPP) bir veritabanu üzerinde yazılmıştır.
+Proje lokalde kurulan (XAMPP) bir veritabanı üzerinde yazılmıştır.
 Bu sebeple projeyi açmadan önce sql dosyasını kurmanız gerekmektedir.
 Veritabanı bilgilerinizin farklı olması durumunda (dbname, host name, port vs)
 bu bilgileri güncellemeniz gerekmektedir.
